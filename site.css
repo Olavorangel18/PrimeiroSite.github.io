@@ -237,6 +237,8 @@ h3.espaço{
     box-sizing:border-box;
   }
   #logo{
-    box-sizing:border-box;
+    margin-left:0px;
+    transform:translateX(-50%);
+    box-sizing: border-box;
   }
 }
