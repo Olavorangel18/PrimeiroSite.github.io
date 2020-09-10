@@ -232,7 +232,7 @@ h3.espaço{
   .logoMeio{
     width:100%;
     margin-left:0px;
-    position:relative;
+    position:absolute;
     text-align:center;
     box-sizing:border-box;
   }
